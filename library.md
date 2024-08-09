@@ -1,0 +1,4 @@
+| Title                       | Author           | Genre   | Proposed By   | Status   | Session   | Rating    | Link                                                                     |
+|:----------------------------|:-----------------|:--------|:--------------|:---------|:----------|:----------|:-------------------------------------------------------------------------|
+| The Master and Margarita    | Mikhail Bulgakov | Classic | Francesco     | next     | Backlog   | No rating | https://www.goodreads.com/book/show/117833.The_Master_and_Margarita      |
+| Remarkably Bright Creatures | Shelby Van Pelt  | Fiction | Francesco     | next     | Backlog   | No rating | https://www.goodreads.com/book/show/58733693-remarkably-bright-creatures |
